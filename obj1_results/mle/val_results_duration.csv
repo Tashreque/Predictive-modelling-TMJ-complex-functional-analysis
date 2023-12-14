@@ -1,0 +1,2 @@
+,best_train_rmse_xgboost,best_val_rmse_xgboost,best_train_rmse_random_forest,best_val_rmse_random_forest,avg_train_rmse_linear_regression,avg_val_rmse_linear_regression
+ta_r,9.935656667269186,8.31882792330789,34.04913870573194,52.10558414116117,52.3564486278947,52.15924094212524

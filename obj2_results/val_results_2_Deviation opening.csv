@@ -1,0 +1,3 @@
+,Multinomial Logistic Regression,XGBoost Classifier,Random Forest Classifier
+Train Accuracy,0.6478946304512038,0.9591592990967414,0.9721519687636313
+Validation Accuracy,0.608053599972792,0.6047682209298371,0.6229296330306431

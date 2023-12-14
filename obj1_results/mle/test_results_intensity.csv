@@ -1,0 +1,12 @@
+,test_rmse_xgboost,test_mae_xgboost
+ta_r,0.04021067981633253,0.035100921875289584
+,test_rmse_xgboost,test_mae_xgboost
+ta_l,0.037609293306521616,0.028660248381129665
+,test_rmse_xgboost,test_mae_xgboost
+mm_r,0.04296312604280351,0.03347258738757715
+,test_rmse_xgboost,test_mae_xgboost
+mm_l,0.04110179945390655,0.03583440087319956
+,test_rmse_xgboost,test_mae_xgboost
+da_r,0.031826256864835825,0.02393543724210477
+,test_rmse_xgboost,test_mae_xgboost
+da_l,0.041289064115623636,0.034673279225186725
