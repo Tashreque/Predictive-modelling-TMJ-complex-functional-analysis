@@ -1,0 +1,12 @@
+XGBOOST:
+
+Maximum depth:  from 3 to 10 with steps of 2
+Minimum child weight: from 1 to 6 with steps of 2
+Number of trees: 100, 500 and 1000
+Learning Rate: 0.1, 0.01 and 0.001
+
+RANDOM FOREST:
+
+Maximum depth: from 3 to 10 with steps of 2
+Number of trees: 100, 500, 1000
+Maximum number of features: number of features, square root of number of features and log2(number of features)
